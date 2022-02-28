@@ -6,7 +6,7 @@
 人工智能课结束，大作业选择了题目名为：基于概率搜索的旅行商问题求解策略分析。因此大作业内将包含了求解TSP问题的精确算法——动态规划算法（DP），以及启发式算法——蚁群算法（ACO）和遗传算法（GA）。
 因为TSP问题是一个备受数学家和计算机科学家关注的一个问题，主要是因为它很容易描述，但是很难解决，是一个经典的NP(non-deterministic polynomial)困难问题，在日常生活中比较常见，例如交通运输、电路设计、物流分发、抄表等等。该问题可以简单地表述为:一个商品推销员要去n个城市推销商品，该推销员随机从一个城市出发，需要经过所有城市后，最后回到出发地应如何选择行进路线以使总的行程最短。
 
-![](https://img.shields.io/badge/language-Python-blue)![](https://img.shields.io/badge/algorithm-%E6%97%85%E8%A1%8C%E5%95%86%E9%97%AE%E9%A2%98(TSP)-orange)![](https://img.shields.io/badge/algorithm-%E8%9A%81%E7%BE%A4%E7%AE%97%E6%B3%95(ACO)-red)![](https://img.shields.io/badge/algorithm-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92(DP)-red)![](https://img.shields.io/badge/algorithm-%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95(GA)-red)
+![](https://img.shields.io/badge/language-Python-blue) ![](https://img.shields.io/badge/algorithm-%E6%97%85%E8%A1%8C%E5%95%86%E9%97%AE%E9%A2%98(TSP)-orange) ![](https://img.shields.io/badge/algorithm-%E8%9A%81%E7%BE%A4%E7%AE%97%E6%B3%95(ACO)-red) ![](https://img.shields.io/badge/algorithm-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92(DP)-red) ![](https://img.shields.io/badge/algorithm-%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95(GA)-red)
 
 为了方便测试，已经把它们各自都封装成了函数，并且写了参数注释。相当于一个小的测试系统吧，功能包括：动态规划算法、蚁群算法、遗传算法、蚁群算法优化测试、数据集测试、自动化算法测试。
 
